@@ -1,2 +1,2 @@
 # Mysite
-[Open](https://raw.githubusercontent.com/Marioskalo747/Mysite/main/Untitled-2.html)
+[Open](https://marioskalo747.github.io/Mysite/Untitled-2.html)
